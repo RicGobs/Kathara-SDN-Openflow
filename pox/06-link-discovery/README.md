@@ -15,7 +15,7 @@ We have created a POX link discovery application that:
 * Switches are discovered by handling connection up events
 * Links are discovered by exploiting the mechanism show in the figure
 
-![Network Scenario](/images/network_image2.png)
+![Network Scenario](/pox/images/network-image2.png)
 
 ### Test the implementation
 

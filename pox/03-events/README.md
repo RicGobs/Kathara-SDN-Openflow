@@ -25,7 +25,7 @@ We have created two POX components:
 * the component A_listener is a listener of packetIn events: whenever a packetIn event occurs, the component A prints a message on the display publishes an event named pktInSeen
 * the component B_listener is a listener of pktInSeen events: whenever a pktInSeen event occurs, the component B prints the message “A has seen an OFP packetIn” on the screen.
 
-![Network Scenario](/images/network_image1.png)
+![Network Scenario](/pox/images/network-image1.png)
 
 ### Test the implementation
 

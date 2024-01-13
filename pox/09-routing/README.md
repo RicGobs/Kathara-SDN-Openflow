@@ -11,7 +11,7 @@ In the controller, there are the following functionalities:
 - a component that track the current occupation (in terms of number of flows) of each link
 - a component that compute and install the “max throughput” path. The used algorithm is the Dijkstra's Algorithm: a shortest path search algorithm in a weighted graph, assigning a weight to each edge and finding the shortest path between a starting node and all other nodes.
 
-![Network Scenario](/images/network_image3.png)
+![Network Scenario](/pox/images/network-image3.png)
 
 ### Test the implementation
 

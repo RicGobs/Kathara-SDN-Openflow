@@ -19,7 +19,7 @@ We have created a POX ARP Handler application that:
 - the host discovery component of the previous lab (with some small changes), to know the hosts of the network
 - a component that answers to ARP requests of the hosts (assume that the gateway is at 10.0.0.1): if the destination IP is a host, it answers with the correct MAC; if the destination IP is the gateway or external, it answers with a fake MAC
 
-![Network Scenario](/images/network_image4.png)
+![Network Scenario](/pox/images/network-image4.png)
 
 ### Test the implementation
 

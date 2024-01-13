@@ -16,7 +16,7 @@ We have created a POX component, called reflector, that:
 * when a relevant event occurs, then the component extract the ethernet frame and swaps source and destination mac
 *  after that, it sends the frame back in the dataplane through a packet out (see next slide), indicating to forward it out from the switch port from which it has been received
 
-![Network Scenario](/images/network_image1.png)
+![Network Scenario](/pox/images/network-image1.png)
 
 ### Test the implementation
 

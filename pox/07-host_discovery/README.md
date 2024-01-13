@@ -24,7 +24,7 @@ We have created a POX Host Discovery application that:
 * uses the POX_Link_Discovery component (with some changes) allowing the controller to know the network topology (switches and link between them)
 * after the connection up events, all the hosts are discovered (their links with the switches)
 
-![Network Scenario](/images/network_image3.png)
+![Network Scenario](/pox/images/network-image3.png)
 
 ### Test the implementation
 
